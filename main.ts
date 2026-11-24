@@ -1,6 +1,7 @@
 // One-Sentence Absurd Invention Pitch — make.fun entry
 // Line (104 bytes): one sentence, ridiculous invention fixing a tiny
 // annoyance — burnt toast arrives as a formal letter of regret.
+// Criteria order: pitch on brief, funny, clever fix, original idea.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const LINE =
